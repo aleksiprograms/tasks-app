@@ -1,0 +1,16 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    background-color: #eee;
+}
+
+input, textarea {  
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    width: 100%;
+}
