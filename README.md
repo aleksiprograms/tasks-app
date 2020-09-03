@@ -1,6 +1,6 @@
 # Tasks App
 
-Tehtävien hallinta sovellus tehty seuraavilla teknoligioilla React, Node.js, Express and MongoDB.
+Tehtävien hallinta sovellus tehty seuraavilla teknoligioilla React, Node.js, Express ja MongoDB.
 
 ### Asennus
 Vaihda **_config/keys.js_** tiedostoon arvon **_YOUR_MONGODB_URI_** tilalle oma **_URL_**.
