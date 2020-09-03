@@ -15,11 +15,11 @@ npm install
 ```
 
 ### Suoritus
-Projektin juuressa (backend) (`http://localhost:3000/`)
+Projektin juuressa (backend) (`http://localhost:5000/tasks`)
 ```
 npm run watch
 ```
-**_client_** kansiossa (frontend) (`http://localhost:5000/tasks`)
+**_client_** kansiossa (frontend) (`http://localhost:3000/`)
 ```
 npm start
 ```
